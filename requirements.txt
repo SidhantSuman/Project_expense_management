@@ -1,0 +1,7 @@
+streamlit==1.65.0
+pandas==2.3.3
+pytest==9.1.1
+pydantic==2.13.5
+uvicorn==0.54.0
+my-sql-connector==26.2.2
+requests==2.32.5
